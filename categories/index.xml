@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on 演示站点</title>
+        <link>http://localhost:1313/road_of_lord_website/categories/</link>
+        <description>Recent content in Categories on 演示站点</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/road_of_lord_website/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Animals</title>
+        <link>http://localhost:1313/road_of_lord_website/categories/animals/</link>
+        <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/road_of_lord_website/categories/animals/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Nature</title>
+        <link>http://localhost:1313/road_of_lord_website/categories/nature/</link>
+        <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/road_of_lord_website/categories/nature/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>http://localhost:1313/road_of_lord_website/categories/test/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/road_of_lord_website/categories/test/</guid>
+        <description>&lt;img src="http://localhost:1313/road_of_lord_website/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        <item>
+        <title>测试</title>
+        <link>http://localhost:1313/road_of_lord_website/categories/%E6%B5%8B%E8%AF%95/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/road_of_lord_website/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Syntax</title>
+        <link>http://localhost:1313/road_of_lord_website/categories/syntax/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/road_of_lord_website/categories/syntax/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Themes</title>
+        <link>http://localhost:1313/road_of_lord_website/categories/themes/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/road_of_lord_website/categories/themes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test With Whitespaces</title>
+        <link>http://localhost:1313/road_of_lord_website/categories/test-with-whitespaces/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/road_of_lord_website/categories/test-with-whitespaces/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Beauty</title>
+        <link>http://localhost:1313/road_of_lord_website/categories/beauty/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/road_of_lord_website/categories/beauty/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Fashion</title>
+        <link>http://localhost:1313/road_of_lord_website/categories/fashion/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/road_of_lord_website/categories/fashion/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
