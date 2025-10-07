@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Fashion on 演示站点</title>
+        <link>http://localhost:1313/road_of_lord_website/categories/fashion/</link>
+        <description>Recent content in Fashion on 演示站点</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright><atom:link href="http://localhost:1313/road_of_lord_website/categories/fashion/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Fashion &amp; Beauty</title>
+        <link>http://localhost:1313/road_of_lord_website/fashion-beauty/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/road_of_lord_website/fashion-beauty/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

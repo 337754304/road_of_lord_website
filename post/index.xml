@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on 演示站点</title>
+        <link>http://localhost:1313/road_of_lord_website/post/</link>
+        <description>Recent content in Posts on 演示站点</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Mon, 06 Oct 2025 22:56:42 +0800</lastBuildDate><atom:link href="http://localhost:1313/road_of_lord_website/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>索引目录</title>
+        <link>http://localhost:1313/road_of_lord_website/p/%E7%B4%A2%E5%BC%95%E7%9B%AE%E5%BD%95/</link>
+        <pubDate>Mon, 06 Oct 2025 22:56:42 +0800</pubDate>
+        
+        <guid>http://localhost:1313/road_of_lord_website/p/%E7%B4%A2%E5%BC%95%E7%9B%AE%E5%BD%95/</guid>
+        <description>&lt;p&gt;好好汉&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
